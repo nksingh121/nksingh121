@@ -1,5 +1,5 @@
 # 👋 Hi There, I am Nisikanta
-👩🏻‍💻 Data Engineer/Working-Professional, sharing about my journey and learnings in tech<br>👩🏻‍🎓 Gratuated from KIIT University in 2022 (B-Tech)<br>🎨 Love making new Projects regarding automation and Analytics!<br>💭 Currently learning about data AI and Deep Learning!
+👩🏻‍💻 Data Engineer/Working-Professional, sharing about my journey and learnings in tech<br>👩🏻‍🎓 Gratuated from KIIT University in 2022 (B-Tech)<br>🎨 Love making new Projects in automation and Analytics!<br>💭 Currently learning about data AI and Deep Learning!
 
 
 ## 🌐 Socials:
